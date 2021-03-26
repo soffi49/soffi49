@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi Everyone 👋
+I'm a CS student 💻 \
+Currently broadening my knowledge in `PHP, Python` & `Java` \
+Programming in `C/C++, C#, Java, PHP` as well as `HTML, CSS, JavaScript`\
+I love working on different kinds of projects, but my absolute favorites are **web applications** 
+👩‍💻
 
 <!--
 **soffi49/soffi49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
