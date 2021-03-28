@@ -1,8 +1,8 @@
 ### Hi Everyone 👋
 I'm a CS student 💻 \
 Currently broadening my knowledge in `PHP, Python` & `Java` \
-Programming in `C/C++, C#, Java, PHP` as well as `HTML, CSS, JavaScript`\
-I love working on different kinds of projects, but my absolute favorites are **web applications** 
+Programming mainly in `C/C++, C#, Java, PHP`, but also a little in `HTML, CSS, JavaScript`\
+I love working on different kinds of projects, but recently my heart was stolen by **web applications**
 👩‍💻
 
 <!--
